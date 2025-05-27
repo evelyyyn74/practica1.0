@@ -1,9 +1,9 @@
-public class computadora {
+public class Computadora {
     private String marca;
     private String modelo;
     private boolean encendida;
 
-    public computadora(String marca, String modelo) {
+    public Computadora(String marca, String modelo) {
         this.marca = marca;
         this.modelo = modelo;
         this.encendida = false;
